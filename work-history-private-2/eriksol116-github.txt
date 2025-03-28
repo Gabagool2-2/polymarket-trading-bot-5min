@@ -1,0 +1,42 @@
+
+git config --local user.name "eriksol116"
+git config --local user.email "morrison.cooldev@gmail.com"
+ git filter-branch -f --env-filter "GIT_AUTHOR_NAME='eriksol116' GIT_AUTHOR_EMAIL='morrison.cooldev@gmail.com' GIT_COMMITTER_NAME='eriksol116' GIT_COMMITTER_EMAIL='morrison.cooldev@gmail.com'" HEAD
+git remote show origin
+git remote set-url origin
+git remote show origin
+git push --all origin
+
+
+
+y5FH5FkP1
+y5FH5FkP1
+y5FH5FkP1
+y5FH5FkP1
+
+
+
+
+
+<eriksol116>-token
+
+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 
+
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+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 
+
+
+
+
+
+https://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@github.com/eriksol116/Solana-trading-bots-overview.git
